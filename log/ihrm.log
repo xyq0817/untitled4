@@ -1,0 +1,2 @@
+2020-02-26 14:27:29,985 INFO [root] [test_login.py(test_login:27)] - {'message': '操作成功！', 'code': 10000, 'data': '73c096b8-3983-44ab-927e-f1987207c054', 'success': True}
+2020-02-26 14:27:29,987 INFO [root] [test_login.py(test_login:31)] - 保存的令牌是：{'Content-Type': 'application/json', 'Authorization': 'Bearer 73c096b8-3983-44ab-927e-f1987207c054'}
